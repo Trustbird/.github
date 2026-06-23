@@ -1,7 +1,7 @@
 # Trustbird
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Trustbird/.github/blob/main/profile/banner.webp" alt="Trustbird" style="width: 100%; max-width: 800px;">
+  <img src="https://github.com/Trustbird/.github/blob/main/profile/banner.webp" alt="Trustbird" style="width: 100%; max-width: 800px;">
 </p>
 
 <p align="center">
