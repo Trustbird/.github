@@ -1,86 +1,39 @@
 # Trustbird
 
 <p align="center">
-  <img src="https://github.com/Trustbird/.github/blob/main/profile/banner.webp" alt="Trustbird" style="width: 100%; max-width: 800px;">
+  <img src="https://raw.githubusercontent.com/Trustbird/.github/main/profile/banner.webp" alt="Trustbird" width="800">
 </p>
 
-<p align="center">
-  <strong>The Open Trust Operating System</strong>
-</p>
+**One management system. For every standard you carry.**
 
-<p align="center">
-  Open-source compliance, governance, and security management built with Laravel.
-</p>
+Trustbird is an integrated management system, delivered as software as a service. One place where an organization sets up, maintains and evidences its information security, quality and compliance.
 
-## Why Trustbird?
+## Who it is for
 
-Most compliance platforms start with frameworks, controls, and audits.
+IT and software providers that run ISO 27001 and need a sector standard alongside it.
 
-Trustbird starts with your organization.
+ISO 27001:2022 is the first requirement set and NEN 7510 is the second. GDPR, NIS2 and ISO 9001 are in view after that.
 
-Instead of forcing teams to learn compliance jargon, Trustbird helps organizations answer simple business questions about people, processes, systems, suppliers, and risks. From those conversations, Trustbird builds an auditable foundation of policies, controls, evidence, and governance.
+## How it works
 
-Our goal is simple:
+**Business language, not standard language.** You answer questions about your own organization. Who decides on access to customer data, which suppliers process it, what happens when something goes wrong. Trustbird maps those answers onto the structure a standard expects. Clause and control numbers appear where they are needed, such as in the Statement of Applicability and in an audit export, and nowhere else.
 
-> Build an ISMS without feeling like you're building an ISMS.
+**One core, several standards.** The product follows the shared Annex SL structure that ISO 27001, NEN 7510 and ISO 9001 have in common. That core is built once and reused for every standard after it, so adding a standard is mostly editorial work.
 
-## What we're building
+**AI that assists and never decides.** Trustbird asks the questions, drafts policies and procedures, and gives an opinion on whether a piece of evidence covers a requirement. Generated content stays a draft until a named owner adopts it, recorded with person, date and version. An AI opinion has its own status and never sets a requirement to met by itself. Every export to an auditor states which assessments came from AI and which were established by a person.
 
-Trustbird is an open-core platform that helps organizations:
+Trustbird does not replace an auditor, does not give legal advice and does not guarantee certification.
 
-- Build and maintain an Information Security Management System (ISMS)
-- Prepare for frameworks such as ISO 27001, NIS2, GDPR, DORA and future standards
-- Manage policies, risks, measures, tasks and evidence
-- Generate audit-ready documentation
-- Automate repetitive compliance work using AI
-- Stay in control of their own data through self-hosting
+## How it runs
 
-Trustbird is built with:
+- One tenant per customer.
+- Hosted in the EU.
+- An audit trail on every action in the application.
 
-- Laravel
-- Filament
-- Livewire
-- Alpine.js
+## Status
 
-## Open Source First
+Trustbird is in development with two design partners. The repositories in this organization are private.
 
-We believe trust starts with transparency.
+Read what the product does, what it deliberately does not do, and when it opens up at [trustbird.com](https://trustbird.com), where you can also sign up to be notified.
 
-The Trustbird Community Edition is fully self-hostable and designed to be useful on its own. We want developers, consultants, security professionals, MSPs, and organizations to collaborate on a shared ecosystem for workable compliance.
-
-Our mission is not to lock organizations into another black-box compliance platform.
-
-Our mission is to make governance, security, and compliance understandable, accessible, and auditable for everyone.
-
-## Contributing
-
-We welcome contributions from developers, security professionals, auditors, consultants, technical writers, and community members.
-
-Whether you're fixing a typo, building a connector, improving documentation, or contributing new ideas, your help is appreciated.
-
-Visit our contribution guides to get started.
-
-## Community
-
-- Website: https://trustbird.com
-- Open Source: https://open.trustbird.com
-- Documentation: https://open.trustbird.com/docs
-- Discussions: https://open.trustbird.com/community
-
-## Vision
-
-We believe the future of compliance is:
-
-- Open
-- Explainable
-- AI-assisted
-- Self-hostable
-- Community-driven
-
-Trustbird exists to help organizations move from uncertainty to confidence, from scattered documents to structured governance, and from compliance projects to continuous trust.
-
----
-
-<p align="center">
-  <strong>From questions to confidence.</strong>
-</p>
+Questions: support@trustbird.com
